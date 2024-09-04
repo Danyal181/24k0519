@@ -1,0 +1,12 @@
+Ask the user to enter the day number
+Remainder=Day number MOD 7
+Calculate Remainder
+Remainder=0-Sunday 
+Remainder=1-Monday
+Remainder=2-Tuesday
+Remainder=3-wednesday
+Remainder=4-Thursday
+Remainder=5-Friday
+Remainder=6-Saturday
+Remainder=7-Sunday
+output corresponding day from remainder
