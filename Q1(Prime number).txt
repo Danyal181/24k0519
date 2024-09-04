@@ -1,0 +1,8 @@
+take a number as an input from the user
+initialize a variable named z as 2
+initialize a variable named Result as prime
+iterate a while loop that will be iterated when z <= number/2
+calculate the remainder(rem) by rem=number MOD a/2
+if the rem is not equal to zero,increment the value of a by +1
+if the rem is equal to zero,change the value of the variable result to not prime
+output the result
