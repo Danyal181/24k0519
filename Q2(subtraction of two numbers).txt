@@ -6,8 +6,8 @@ Start
     Result=a+(NOT b)
   ELSE
     result=b+(NOT a)
-  Output"Result"
+  END IF
 
-  END IF 
+  Output Result
 
 END
