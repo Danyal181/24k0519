@@ -1,7 +1,7 @@
 start
 Output"Enter three numbers"
 Input a,b,c
-IF a<b and a<c THEN
+IF a<b AND a<c THEN
 Output"a"
 ELSE IF b<a and b<C
 Output"b"
