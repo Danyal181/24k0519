@@ -1,0 +1,10 @@
+Begin
+Output"enter two numbers"
+Input a,b
+IF a>b THEN
+Result=a+(NOT b)
+ELSE
+result=b+(NOT a)
+Output"result"
+END IF 
+END
