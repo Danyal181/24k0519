@@ -4,7 +4,7 @@ start
 
   IF a<b AND a<c THEN
     Output"a"
-  ELSE IF b<a and b<C THEN
+  ELSE IF b<a AND b<C THEN
     Output"b"
   ELSE
     Output"c"
