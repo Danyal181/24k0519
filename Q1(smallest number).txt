@@ -1,11 +1,13 @@
 start
-Output"Enter three numbers"
-Input a,b,c
-IF a<b AND a<c THEN
-Output"a"
-ELSE IF b<a and b<C
-Output"b"
-ELSE
-Output"c"
-END IF 
+  Output"Enter three numbers"
+  Input a,b,c
+
+  IF a<b AND a<c THEN
+    Output"a"
+  ELSE IF b<a and b<C THEN
+    Output"b"
+  ELSE
+    Output"c"
+  END IF
+
 END
