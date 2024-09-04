@@ -1,5 +1,5 @@
 Start
-  Output"enter two numbers and an operator"
+  Output"enter two numbers AND an operator"
   input num1,num2,operator
 
   IF operator==* THEN
